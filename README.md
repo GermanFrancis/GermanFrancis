@@ -8,7 +8,7 @@
 
 - 🏓 &nbsp; I like to programming and listen to music.
 
-- ✍️ &nbsp; I learn something new all days.
+- ✍️ &nbsp; I learn something new everyday.
 
 <h3>🛠 Technologies I know</h3>
 <div align="left">
